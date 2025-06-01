@@ -1,0 +1,11 @@
+Prompt: using artificial intelligence write an email to my boss
+
+Response:
+Please provide me with some context so I can write a more effective email for you.  To write a helpful email to your boss, I need to know:
+
+* **What is the purpose of the email?** (e.g., requesting time off, asking a question, providing an update, reporting a problem, requesting feedback, etc.)
+* **What information needs to be included?** (e.g., dates, specific details about a project, names of people involved, etc.)
+* **What is the desired outcome?** (e.g., approval for time off, a response to your question, etc.)
+* **What is your relationship with your boss like?** (Formal or informal?  Do you usually communicate via email or in person?)
+
+Once I have this information, I can craft a professional and effective email for you.

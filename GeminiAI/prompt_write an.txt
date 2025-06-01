@@ -1,0 +1,14 @@
+Prompt: using artificial intelligence write an
+
+Response:
+Please provide me with instructions on what kind of text you want me to write.  "Using artificial intelligence write an" is incomplete.  
+
+For example, tell me:
+
+* **What kind of text?** (e.g., poem, short story, essay, news article, code, script, letter, etc.)
+* **What should the text be about?** (e.g., the benefits of artificial intelligence, a fictional character, a specific event, a coding problem, etc.)
+* **What is the desired length?** (e.g., a short paragraph, a few pages, etc.)
+* **What is the desired tone?** (e.g., formal, informal, humorous, serious, etc.)
+* **Are there any specific keywords or phrases to include?**
+
+The more information you give me, the better I can assist you.
