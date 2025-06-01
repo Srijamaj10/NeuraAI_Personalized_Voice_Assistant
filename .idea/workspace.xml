@@ -8,15 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c10c7903-17f2-448a-bf6e-41719bf31b0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NeuraAI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nuera/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nuera/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nuera/openaitest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
